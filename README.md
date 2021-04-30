@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suraj
 - 👀 I’m interested in learning new things and implement them 
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...(
+- 💞️ I’m looking to collaborate on [not right now but may be in future]
 - 📫 How to reach me ....
 
 <!---
