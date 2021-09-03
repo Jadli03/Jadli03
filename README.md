@@ -1,4 +1,4 @@
-#Hi there 👋,I'm Suraj Jadli!
+# Hi there 👋,I'm Suraj Jadli!
 
 - 👋 Hi, I’m Suraj
 - 👀 I’m interested in learning new things and implement them 
