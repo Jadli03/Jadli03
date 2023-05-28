@@ -3,7 +3,7 @@
 # About Me
 - 🎓 I am pursuing Master in Computer Application.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on [not right now but may be in future]
 - 📫 How to reach me ....
 
