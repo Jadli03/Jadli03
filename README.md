@@ -1,10 +1,9 @@
 # Hi there 👋,I'm Suraj Jadli!
 
 # About Me
-- 🎓 I am pursuing Master in Computer Application.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning to build scalable software
-- 💞️ I’m looking to collaborate on [not right now but may be in future]
+- 🎓 Degree in Master of Computer Application.
+- 👀 Interested in Web Development.
+- 🌱 Learning to build scalable software
 - 📫 How to reach me ....
 
 # Connect with me 📫 💞️
